@@ -1,0 +1,27 @@
+{
+  "id": "a1w17000002dk5NAAQ",
+  "name": "North East Area",
+  "uid": "100691000027513",
+  "childCount": 2,
+  "children": [
+    {
+      "id": "a1w17000002dk5TAAQ",
+      "name": "North East - Diabetes Sales",
+      "uid": "10000000148439",
+      "childCount": 5,
+      "assignedUser": { "Id": "a2817000001hphnAAA", "Name": "Ab Rosenstein" },
+      "value": "Ab Rosenstein"
+    },
+    {
+      "id": "a1w17000002dk5VAAQ",
+      "name": "North East - Oncology Sales",
+      "uid": "16193000018497",
+      "childCount": 5,
+      "assignedUser": { "Id": "a2817000001hphoAAA", "Name": "Hi Cella" },
+      "value": "Hi Cella"
+    }
+  ],
+  "value": "Papagena McCaughey",
+  "parentCount": 0,
+  "parents": []
+}
